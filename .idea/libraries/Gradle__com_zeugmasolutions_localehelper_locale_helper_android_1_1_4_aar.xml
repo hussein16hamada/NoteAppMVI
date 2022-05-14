@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zeugmasolutions.localehelper:locale-helper-android:1.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/be708a3a0d127a5a7378aa940f6581cb/transformed/jetified-locale-helper-android-1.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be708a3a0d127a5a7378aa940f6581cb/transformed/jetified-locale-helper-android-1.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be708a3a0d127a5a7378aa940f6581cb/transformed/jetified-locale-helper-android-1.1.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zeugmasolutions.localehelper/locale-helper-android/1.1.4/e67c2cdd2219be7a4988842fed8a278365d2e10f/locale-helper-android-1.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zeugmasolutions.localehelper/locale-helper-android/1.1.4/19f84fb04bf3aa266f55bc304a1fc9543cb4c268/locale-helper-android-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

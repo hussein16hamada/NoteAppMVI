@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:icon="@drawable/ic_delete"
+        app:showAsAction="ifRoom"
+        android:title="@string/favorite"
+        android:id="@+id/note_delete"/>
+<!--    <item-->
+<!--        android:icon="@drawable/color"-->
+<!--        app:showAsAction="ifRoom"-->
+<!--        android:title="color"-->
+<!--        android:id="@+id/color"/>-->
+    <item
+        android:id="@+id/note_add_save"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_save"
+        android:title="@string/save" />
+
+
+<!--    <item-->
+<!--        android:icon="@drawable/ic_more_vert"-->
+<!--        android:id="@+id/note_add_more"-->
+<!--        app:showAsAction="ifRoom"-->
+<!--        android:title="@string/options"/>-->
+
+</menu>

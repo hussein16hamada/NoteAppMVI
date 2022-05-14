@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.muddassir235:connection_checker:1.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4f4075d98c46b75bc7089aa381b6fa0b/transformed/jetified-connection_checker-1.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f4075d98c46b75bc7089aa381b6fa0b/transformed/jetified-connection_checker-1.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f4075d98c46b75bc7089aa381b6fa0b/transformed/jetified-connection_checker-1.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.muddassir235/connection_checker/1.7/589ac67800b89695fdf4dd4774ead0c72390a405/connection_checker-1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
