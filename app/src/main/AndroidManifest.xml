@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.note">
+    package="com.hussein.note">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".base.MyApplication"
+        android:name="com.hussein.note.base.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -17,17 +17,17 @@
         android:usesCleartextTraffic="true">
 
         <activity
-            android:name=".auth.ui.ProfileActivity"
+            android:name="com.hussein.note.auth.ui.ProfileActivity"
             android:exported="false" />
         <activity
-            android:name=".Note.UI.AddNoteActivity"
+            android:name="com.hussein.note.Note.UI.AddNoteActivity"
             android:exported="false" />
         <activity
-            android:name=".Note.UI.NotesActivity"
+            android:name="com.hussein.note.Note.UI.NotesActivity"
             android:exported="false" />
 
         <activity
-            android:name=".auth.ui.LogInActivity"
+            android:name="com.hussein.note.auth.ui.LogInActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
